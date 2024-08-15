@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Wipack
-- 👀 I’m interested in ... get certificed in gethub
-- 🌱 I’m currently learning ... gethub
+- 👀 I’m interested in ... git certificed in github
+- 🌱 I’m currently learning ... github foundations
 - 💞️ I’m looking to collaborate on ... with my team members 
 - 📫 How to reach me ... 
 - 😄 Pronouns: ...
